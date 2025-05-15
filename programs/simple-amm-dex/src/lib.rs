@@ -5,7 +5,6 @@ pub mod state;
 pub mod instructions;
 pub mod error;
 
-
 use instructions::*;
 
 declare_id!("8Y28XVxZdKpN47nh4KVDKYNqJ8WkzVtXrXqezECHASCD");  // 임시 placeholder

@@ -603,6 +603,8 @@ name = "dexfense-program"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
+ "anchor-spl",
+ "simple-amm-dex",
 ]
 
 [[package]]
